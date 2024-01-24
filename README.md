@@ -1,4 +1,6 @@
-👋🏻 Hello, I’m Tracy and welcome to my portfolio! 
+# 💫 About Myself
+
+👋🏻 Hello and welcome to my portfolio! I'm Tracy, an aspiring data analyst.
 
 📚 I'm a highly motivated and analytical individual with a background in business and psychology. 
 
